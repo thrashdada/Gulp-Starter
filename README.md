@@ -1,4 +1,5 @@
 # Gulp-Starter
+Bootstrap Material Design, SCSS, Gulp 4.0.0
 
 ###### install
 - $ npm install -g gulpjs/gulp-cli
